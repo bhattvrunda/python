@@ -1,0 +1,4 @@
+hello here is data of data.
+This is text file 
+it contains four lines
+the third line is empty
