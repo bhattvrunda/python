@@ -1,0 +1,7 @@
+This is a simple example
+to demonstrate how to split
+text into words and join
+them to form sentences. This
+program will read from one
+file and write to another
+file.
